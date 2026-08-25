@@ -1,13 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E5A155&center=true&vCenter=true&width=600&lines=Nirbhay+Aggarwal;Software+Engineer;Full-Stack+Developer;Infrastructure+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E3B341&center=true&vCenter=true&width=600&lines=Nirbhay+Aggarwal;Software+Engineer;Full-Stack+Developer;Infrastructure+Engineer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://nirbhay.dev">
-    <img src="https://img.shields.io/badge/Website-nirbhay.dev-E5A155?style=for-the-badge" alt="Website" />
-  </a>
-  <a href="https://wikigolf.app">
-    <img src="https://img.shields.io/badge/Play-wikigolf.app-0a0a0c?style=for-the-badge" alt="WikiGolf" />
+    <img src="https://img.shields.io/badge/Website-nirbhay.dev-E3B341?style=for-the-badge" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/nirbagga/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -17,6 +14,19 @@
   </a>
   <a href="https://github.com/nirbhayagga">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Playable right now:</strong><br/>
+  <a href="https://wikigolf.app">
+    <img src="https://img.shields.io/badge/Play-WikiGolf-E3B341?style=for-the-badge" alt="Play WikiGolf" />
+  </a>
+  <a href="https://sudoku.nirbhay.dev">
+    <img src="https://img.shields.io/badge/Play-Sudoku-E3B341?style=for-the-badge" alt="Play Sudoku" />
+  </a>
+  <a href="https://boardroom.nirbhay.dev">
+    <img src="https://img.shields.io/badge/Play-Boardroom-E3B341?style=for-the-badge" alt="Play Boardroom" />
   </a>
 </p>
 
@@ -70,6 +80,7 @@ Welcome to my personal git instance. I am a Software Engineer focused on bridgin
 * **F1tenth Autonomous Racing:** ROS2 and LiDAR-based autonomous vehicle — 1st place in 4/4 races including an event hosted by the Las Vegas Porsche Owners Club.
 * **Reinforcement Learning Agents:** Deep Q-learning, policy gradient, and actor-critic agents for Super Mario Bros, TrackMania, and OpenAI Gym's BipedalWalker.
 * **Steam NLP Pipeline:** Data scraping and ML preprocessing pipeline analyzing 15M+ rows of Steam reviews.
+* **[Boardroom](https://boardroom.nirbhay.dev) & [Sudoku](https://sudoku.nirbhay.dev):** Live web apps — a real-time multiplayer boardgame over WebSockets with a play-vs-bot mode, and a Sudoku app with puzzle generation, a custom solver, and a hint engine. **Both playable now.**
 * **Multiplayer Party Game Platform:** Real-time full-stack web app (Vue.js, Node.js, PostgreSQL) hosting Jackbox-style games.
 * **Homelab & Network:** Production-grade infrastructure using Proxmox, OPNsense (VLANs, WireGuard, DNS), TrueNAS, Traefik, and reverse-tunnel public ingress with automated encrypted backups to Backblaze B2.
 
