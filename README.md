@@ -32,6 +32,12 @@
   <a href="https://boardroom.nirbhay.dev">
     <img src="https://img.shields.io/badge/Play-Boardroom-E3B341?style=for-the-badge" alt="Play Boardroom" />
   </a>
+  <a href="https://clientcrypt.nirbhay.dev">
+    <img src="https://img.shields.io/badge/Try-ClientCrypt-E3B341?style=for-the-badge" alt="Try ClientCrypt" />
+  </a>
+  <a href="https://stepwise.nirbhay.dev">
+    <img src="https://img.shields.io/badge/Try-Stepwise-E3B341?style=for-the-badge" alt="Try Stepwise" />
+  </a>
 </p>
 
 ---
@@ -50,9 +56,11 @@ I am a Software Engineer focused on bridging the gap between software developmen
 
 * **[WikiGolf](https://wikigolf.app) — Wikipedia Graph Pipeline:** Parsed the full 27 GB English Wikipedia dump with a custom two-pass Rust parser into a 7.2M-article, 231M-edge graph (PageRank, Leiden communities, force-directed layout), then built a Rust game server racing across it — 22 ms shortest paths, daily puzzles. **Playable now.**
 * **Game Server Dashboard & Save Editor:** Self-hosted dashboard combining a game server's REST API with direct parsing of Oodle-compressed binary saves — fail-closed editing with verified backups, conservation checks, seven-role access control, and 1,000+ tests.
+* **[ClientCrypt](https://clientcrypt.nirbhay.dev) — Cryptography in the Browser:** Interactive reference for cryptographic primitives and protocols on audited RustCrypto crates compiled to WebAssembly — AES modes, HMAC, RSA, X25519, Argon2id, a full TLS 1.3 key schedule — every primitive verified against FIPS and RFC known-answer vectors. No input leaves the browser.
+* **[Stepwise](https://stepwise.nirbhay.dev) — Algorithm Visualizer:** Records each run as immutable frames so 40+ sorting, pathfinding, DP, tree, and graph algorithms can be played, stepped backwards, and scrubbed on a timeline with pseudocode tracing and live variables. Vue 3 + TypeScript.
 * **Systems Programming:** Developed **Rivet** (Git re-implementation in Rust), **Pyrite** and **Rustle** (Rust interpreters), and **Espresso** (Java compiler with Ant/JFlex).
 * **Autonomous AI & ML:** Engineered a LiDAR-based autonomous racing vehicle with ROS2 (F1tenth, 1st in 4/4 races). Trained RL agents for Mario, TrackMania, and BipedalWalker. Built an NLP pipeline processing 15M+ Steam reviews.
-* **Full-Stack Web:** [Boardroom](https://boardroom.nirbhay.dev) — a real-time multiplayer boardgame over WebSockets with a play-vs-bot mode — and [Sudoku](https://sudoku.nirbhay.dev), with on-the-fly puzzle generation, a custom solver, and a hint engine. **Both playable now.** Also built a Jackbox-style party game platform (Vue.js, Node.js, PostgreSQL).
+* **Full-Stack Web:** [Boardroom](https://boardroom.nirbhay.dev) — ten classic board games with per-game AI engines (minimax, a transposition-table checkers engine, Stockfish via WASM) and server-authoritative Socket.IO multiplayer in the self-hosted build; the live demo is the offline, AI-only build — and [Sudoku](https://sudoku.nirbhay.dev), with on-the-fly puzzle generation, a custom solver, and a hint engine. **Both playable now.** Also built a Jackbox-style party game platform (Vue.js, Node.js, PostgreSQL).
 * **Infrastructure:** Architected an enterprise-grade homelab (Proxmox, OPNsense, TrueNAS) with VLAN segmentation, WireGuard VPN, Traefik, reverse-tunnel public ingress, and encrypted offsite backups to Backblaze B2.
 
 ---
