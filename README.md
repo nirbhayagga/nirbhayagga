@@ -28,6 +28,12 @@
   <a href="https://boardroom.nirbhay.dev">
     <img src="https://img.shields.io/badge/Play-Boardroom-E3B341?style=for-the-badge" alt="Play Boardroom" />
   </a>
+  <a href="https://clientcrypt.nirbhay.dev">
+    <img src="https://img.shields.io/badge/Try-ClientCrypt-E3B341?style=for-the-badge" alt="Try ClientCrypt" />
+  </a>
+  <a href="https://stepwise.nirbhay.dev">
+    <img src="https://img.shields.io/badge/Try-Stepwise-E3B341?style=for-the-badge" alt="Try Stepwise" />
+  </a>
 </p>
 
 ---
@@ -75,12 +81,14 @@ Welcome to my personal git instance. I am a Software Engineer focused on bridgin
 
 * **[WikiGolf](https://wikigolf.app) — Wikipedia Graph Pipeline:** Custom two-pass Rust parser over the full 27 GB Wikipedia dump into a 7.2M-article, 231M-edge graph (PageRank, Leiden communities, force-directed layout), plus a Rust game server racing across it — 22 ms shortest paths, daily puzzles. **Playable now.**
 * **Game Server Dashboard & Save Editor:** Self-hosted dashboard combining a game server's REST API with direct parsing of Oodle-compressed binary saves — fail-closed editing with verified backups, conservation checks, seven-role access control, and 1,000+ tests.
+* **[ClientCrypt](https://clientcrypt.nirbhay.dev) — Cryptography in the Browser:** Interactive reference for cryptographic primitives and protocols on audited RustCrypto crates compiled to WebAssembly — AES modes, HMAC, RSA, X25519, Argon2id, a full TLS 1.3 key schedule — every primitive verified against FIPS and RFC known-answer vectors. No input leaves the browser.
+* **[Stepwise](https://stepwise.nirbhay.dev) — Algorithm Visualizer:** Records each run as immutable frames so 40+ sorting, pathfinding, DP, tree, and graph algorithms can be played, stepped backwards, and scrubbed on a timeline with pseudocode tracing and live variables. Vue 3 + TypeScript.
 * **Compiler Development:** Engineered **Espresso** (Java compiler via Ant/JFlex), **Pyrite** (Mini-Python), and **Rustle** (Mini-Lisp) — interpreters and compilers built in Rust and Java.
 * **Rivet:** Complete re-implementation of core Git internals and version control mechanics in Rust.
 * **F1tenth Autonomous Racing:** ROS2 and LiDAR-based autonomous vehicle — 1st place in 4/4 races including an event hosted by the Las Vegas Porsche Owners Club.
 * **Reinforcement Learning Agents:** Deep Q-learning, policy gradient, and actor-critic agents for Super Mario Bros, TrackMania, and OpenAI Gym's BipedalWalker.
 * **Steam NLP Pipeline:** Data scraping and ML preprocessing pipeline analyzing 15M+ rows of Steam reviews.
-* **[Boardroom](https://boardroom.nirbhay.dev) & [Sudoku](https://sudoku.nirbhay.dev):** Live web apps — a real-time multiplayer boardgame over WebSockets with a play-vs-bot mode, and a Sudoku app with puzzle generation, a custom solver, and a hint engine. **Both playable now.**
+* **[Boardroom](https://boardroom.nirbhay.dev) & [Sudoku](https://sudoku.nirbhay.dev):** Live web apps — ten classic board games with per-game AI engines (minimax, a transposition-table checkers engine, Stockfish via WASM) and server-authoritative Socket.IO multiplayer in the self-hosted build (the live demo is the offline, AI-only build), and a Sudoku app with puzzle generation, a custom solver, and a hint engine. **Both playable now.**
 * **Multiplayer Party Game Platform:** Real-time full-stack web app (Vue.js, Node.js, PostgreSQL) hosting Jackbox-style games.
 * **Homelab & Network:** Production-grade infrastructure using Proxmox, OPNsense (VLANs, WireGuard, DNS), TrueNAS, Traefik, and reverse-tunnel public ingress with automated encrypted backups to Backblaze B2.
 
