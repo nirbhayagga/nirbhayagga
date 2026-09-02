@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nirbhayagga&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor's Badge" />
-</p>
-
-<p align="center">
   <a href="https://nirbhay.dev">
     <img src="https://img.shields.io/badge/Website-nirbhay.dev-E3B341?style=for-the-badge" alt="Website" />
   </a>
@@ -55,7 +51,7 @@ I am a Software Engineer focused on bridging the gap between software developmen
 ### Highlighted Projects
 
 * **[WikiGolf](https://wikigolf.app) — Wikipedia Graph Pipeline:** Parsed the full 27 GB English Wikipedia dump with a custom two-pass Rust parser into a 7.2M-article, 231M-edge graph (PageRank, Leiden communities, force-directed layout), then built a Rust game server racing across it — 22 ms shortest paths, daily puzzles. **Playable now.**
-* **Game Server Dashboard & Save Editor:** Self-hosted dashboard combining a game server's REST API with direct parsing of Oodle-compressed binary saves — fail-closed editing with verified backups, conservation checks, seven-role access control, and 1,000+ tests.
+* **[PalDash](https://github.com/paldash/paldash) — Game Server Dashboard & Save Editor:** Self-hosted dashboard combining a game server's REST API with direct parsing of Oodle-compressed binary saves — fail-closed editing with verified backups, conservation checks, seven-role access control, and 1,000+ tests.
 * **[ClientCrypt](https://clientcrypt.nirbhay.dev) — Cryptography in the Browser:** Interactive reference for cryptographic primitives and protocols on audited RustCrypto crates compiled to WebAssembly — AES modes, HMAC, RSA, X25519, Argon2id, a full TLS 1.3 key schedule — every primitive verified against FIPS and RFC known-answer vectors. No input leaves the browser.
 * **[Stepwise](https://stepwise.nirbhay.dev) — Algorithm Visualizer:** Records each run as immutable frames so 40+ sorting, pathfinding, DP, tree, and graph algorithms can be played, stepped backwards, and scrubbed on a timeline with pseudocode tracing and live variables. Vue 3 + TypeScript.
 * **Systems Programming:** Developed **Rivet** (Git re-implementation in Rust), **Pyrite** and **Rustle** (Rust interpreters), and **Espresso** (Java compiler with Ant/JFlex).
@@ -68,42 +64,36 @@ I am a Software Engineer focused on bridging the gap between software developmen
 ### Tech Stack
 
 **Languages:**<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0A0A0C?style=flat-square&logo=python&logoColor=E3B341)
+![Java](https://img.shields.io/badge/Java-0A0A0C?style=flat-square&logo=openjdk&logoColor=E3B341)
+![C++](https://img.shields.io/badge/C%2B%2B-0A0A0C?style=flat-square&logo=c%2B%2B&logoColor=E3B341)
+![Rust](https://img.shields.io/badge/Rust-0A0A0C?style=flat-square&logo=rust&logoColor=E3B341)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0C?style=flat-square&logo=javascript&logoColor=E3B341)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0C?style=flat-square&logo=typescript&logoColor=E3B341)
+![SQL](https://img.shields.io/badge/SQL-0A0A0C?style=flat-square&logo=postgresql&logoColor=E3B341)
 
 **Frameworks & Infrastructure:**<br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![React](https://img.shields.io/badge/React-0A0A0C?style=flat-square&logo=react&logoColor=E3B341)
+![Astro](https://img.shields.io/badge/Astro-0A0A0C?style=flat-square&logo=astro&logoColor=E3B341)
+![Vue.js](https://img.shields.io/badge/Vue.js-0A0A0C?style=flat-square&logo=vue.js&logoColor=E3B341)
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0C?style=flat-square&logo=node.js&logoColor=E3B341)
+![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0C?style=flat-square&logo=pytorch&logoColor=E3B341)
+![Docker](https://img.shields.io/badge/Docker-0A0A0C?style=flat-square&logo=docker&logoColor=E3B341)
+![ROS2](https://img.shields.io/badge/ROS2-0A0A0C?style=flat-square&logo=ros&logoColor=E3B341)
+![Proxmox](https://img.shields.io/badge/Proxmox-0A0A0C?style=flat-square&logo=proxmox&logoColor=E3B341)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0A0A0C?style=flat-square&logo=cloudflare&logoColor=E3B341)
 
 ---
 
 ### GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nirbhayagga&theme=nord&no-frame=true&no-bg=true&margin-w=15" alt="Nirbhay's Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nirbhayagga&show_icons=true&include_all_commits=true&count_private=true&title_color=E3B341&icon_color=E3B341&text_color=A8A29E&bg_color=00000000&hide_border=true" alt="Nirbhay's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=nirbhayagga&background=00000000&ring=E3B341&fire=E3B341&currStreakNum=E3B341&currStreakLabel=E3B341&sideNums=A8A29E&sideLabels=A8A29E&dates=57534E&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirbhayagga&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="Nirbhay's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=nirbhayagga&theme=nord&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhayagga&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhayagga&layout=compact&title_color=E3B341&text_color=A8A29E&bg_color=00000000&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
