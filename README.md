@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0C?style=for-the-badge&logo=linkedin&logoColor=E3B341" alt="LinkedIn" />
   </a>
   <a href="mailto:hi@nirbhay.dev">
-    <img src="https://img.shields.io/badge/Email-hi%40nirbhay.dev-0A0A0C?style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-hi%40nirbhay.dev-0A0A0C?style=for-the-badge&logo=maildotru&logoColor=E3B341" alt="Email" />
   </a>
   <a href="https://github.com/nirbhayagga">
     <img src="https://img.shields.io/badge/GitHub-0A0A0C?style=for-the-badge&logo=github&logoColor=E3B341" alt="GitHub" />
@@ -58,6 +58,8 @@ I am a Software Engineer focused on bridging the gap between software developmen
 * **Autonomous AI & ML:** Engineered a LiDAR-based autonomous racing vehicle with ROS2 (F1tenth, 1st in 4/4 races). Trained RL agents for Mario, TrackMania, and BipedalWalker. Built an NLP pipeline processing 15M+ Steam reviews.
 * **Full-Stack Web:** [Boardroom](https://boardroom.nirbhay.dev) — ten classic board games with per-game AI engines (minimax, a transposition-table checkers engine, Stockfish via WASM) and server-authoritative Socket.IO multiplayer in the self-hosted build; the live demo is the offline, AI-only build — and [Sudoku](https://sudoku.nirbhay.dev), with on-the-fly puzzle generation, a custom solver, and a hint engine. **Both playable now.** Also built a Jackbox-style party game platform (Vue.js, Node.js, PostgreSQL).
 * **Infrastructure:** Architected an enterprise-grade homelab (Proxmox, OPNsense, TrueNAS) with VLAN segmentation, WireGuard VPN, Traefik, reverse-tunnel public ingress, and encrypted offsite backups to Backblaze B2.
+
+<sub>Projects without links live in private repos on my self-hosted Git instance — source available on request.</sub>
 
 ---
 
