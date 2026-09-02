@@ -51,36 +51,36 @@ Welcome to my personal git instance. I am a Software Engineer focused on bridgin
 ### Tech Stack
 
 **Languages:**<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0A0A0C?style=flat-square&logo=python&logoColor=E3B341)
+![Java](https://img.shields.io/badge/Java-0A0A0C?style=flat-square&logo=openjdk&logoColor=E3B341)
+![C++](https://img.shields.io/badge/C%2B%2B-0A0A0C?style=flat-square&logo=c%2B%2B&logoColor=E3B341)
+![Rust](https://img.shields.io/badge/Rust-0A0A0C?style=flat-square&logo=rust&logoColor=E3B341)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0C?style=flat-square&logo=javascript&logoColor=E3B341)
+![SQL](https://img.shields.io/badge/SQL-0A0A0C?style=flat-square&logo=postgresql&logoColor=E3B341)
 
 **Frameworks and Tools:**<br/>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![React](https://img.shields.io/badge/React-0A0A0C?style=flat-square&logo=react&logoColor=E3B341)
+![Astro](https://img.shields.io/badge/Astro-0A0A0C?style=flat-square&logo=astro&logoColor=E3B341)
+![Vue.js](https://img.shields.io/badge/Vue.js-0A0A0C?style=flat-square&logo=vue.js&logoColor=E3B341)
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0C?style=flat-square&logo=node.js&logoColor=E3B341)
+![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0C?style=flat-square&logo=pytorch&logoColor=E3B341)
+![Docker](https://img.shields.io/badge/Docker-0A0A0C?style=flat-square&logo=docker&logoColor=E3B341)
+![ROS2](https://img.shields.io/badge/ROS2-0A0A0C?style=flat-square&logo=ros&logoColor=E3B341)
+![Linux](https://img.shields.io/badge/Linux-0A0A0C?style=flat-square&logo=linux&logoColor=E3B341)
 
 **Infrastructure:**<br/>
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![OPNsense](https://img.shields.io/badge/OPNsense-000000?style=flat-square&logo=opnsense&logoColor=white)
-![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
-![Forgejo](https://img.shields.io/badge/Forgejo-FB923C?style=flat-square&logo=forgejo&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-0A0A0C?style=flat-square&logo=proxmox&logoColor=E3B341)
+![OPNsense](https://img.shields.io/badge/OPNsense-0A0A0C?style=flat-square&logo=opnsense&logoColor=E3B341)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0A0A0C?style=flat-square&logo=truenas&logoColor=E3B341)
+![Forgejo](https://img.shields.io/badge/Forgejo-0A0A0C?style=flat-square&logo=forgejo&logoColor=E3B341)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0A0A0C?style=flat-square&logo=cloudflare&logoColor=E3B341)
 
 ---
 
 ### Highlighted Projects
 
 * **[WikiGolf](https://wikigolf.app) — Wikipedia Graph Pipeline:** Custom two-pass Rust parser over the full 27 GB Wikipedia dump into a 7.2M-article, 231M-edge graph (PageRank, Leiden communities, force-directed layout), plus a Rust game server racing across it — 22 ms shortest paths, daily puzzles. **Playable now.**
-* **Game Server Dashboard & Save Editor:** Self-hosted dashboard combining a game server's REST API with direct parsing of Oodle-compressed binary saves — fail-closed editing with verified backups, conservation checks, seven-role access control, and 1,000+ tests.
+* **[PalDash](https://github.com/paldash/paldash) — Game Server Dashboard & Save Editor:** Self-hosted dashboard combining a game server's REST API with direct parsing of Oodle-compressed binary saves — fail-closed editing with verified backups, conservation checks, seven-role access control, and 1,000+ tests.
 * **[ClientCrypt](https://clientcrypt.nirbhay.dev) — Cryptography in the Browser:** Interactive reference for cryptographic primitives and protocols on audited RustCrypto crates compiled to WebAssembly — AES modes, HMAC, RSA, X25519, Argon2id, a full TLS 1.3 key schedule — every primitive verified against FIPS and RFC known-answer vectors. No input leaves the browser.
 * **[Stepwise](https://stepwise.nirbhay.dev) — Algorithm Visualizer:** Records each run as immutable frames so 40+ sorting, pathfinding, DP, tree, and graph algorithms can be played, stepped backwards, and scrubbed on a timeline with pseudocode tracing and live variables. Vue 3 + TypeScript.
 * **Compiler Development:** Engineered **Espresso** (Java compiler via Ant/JFlex), **Pyrite** (Mini-Python), and **Rustle** (Mini-Lisp) — interpreters and compilers built in Rust and Java.
