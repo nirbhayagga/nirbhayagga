@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0C?style=for-the-badge&logo=linkedin&logoColor=E3B341" alt="LinkedIn" />
   </a>
   <a href="mailto:hi@nirbhay.dev">
-    <img src="https://img.shields.io/badge/Email-hi%40nirbhay.dev-0A0A0C?style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-hi%40nirbhay.dev-0A0A0C?style=for-the-badge&logo=maildotru&logoColor=E3B341" alt="Email" />
   </a>
   <a href="https://github.com/nirbhayagga">
     <img src="https://img.shields.io/badge/GitHub-0A0A0C?style=for-the-badge&logo=github&logoColor=E3B341" alt="GitHub" />
@@ -91,6 +91,8 @@ Welcome to my personal git instance. I am a Software Engineer focused on bridgin
 * **[Boardroom](https://boardroom.nirbhay.dev) & [Sudoku](https://sudoku.nirbhay.dev):** Live web apps — ten classic board games with per-game AI engines (minimax, a transposition-table checkers engine, Stockfish via WASM) and server-authoritative Socket.IO multiplayer in the self-hosted build (the live demo is the offline, AI-only build), and a Sudoku app with puzzle generation, a custom solver, and a hint engine. **Both playable now.**
 * **Multiplayer Party Game Platform:** Real-time full-stack web app (Vue.js, Node.js, PostgreSQL) hosting Jackbox-style games.
 * **Homelab & Network:** Production-grade infrastructure using Proxmox, OPNsense (VLANs, WireGuard, DNS), TrueNAS, Traefik, and reverse-tunnel public ingress with automated encrypted backups to Backblaze B2.
+
+<sub>Projects without links live in private repos on this instance — source available on request.</sub>
 
 ---
 
