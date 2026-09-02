@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E3B341&center=true&vCenter=true&width=600&lines=Nirbhay+Aggarwal;Software+Engineer;Full-Stack+Developer;Infrastructure+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E3B341&center=true&vCenter=true&width=600&lines=Nirbhay+Aggarwal;Software+Engineer;Full-Stack+Developer;Infrastructure+Engineer" alt="Nirbhay Aggarwal — Software Engineer" />
 </h1>
 
 <p align="center">
@@ -7,13 +7,13 @@
     <img src="https://img.shields.io/badge/Website-nirbhay.dev-E3B341?style=for-the-badge" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/nirbagga/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0C?style=for-the-badge&logo=linkedin&logoColor=E3B341" alt="LinkedIn" />
   </a>
   <a href="mailto:hi@nirbhay.dev">
-    <img src="https://img.shields.io/badge/Email-hi%40nirbhay.dev-D14836?style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-hi%40nirbhay.dev-0A0A0C?style=for-the-badge" alt="Email" />
   </a>
   <a href="https://github.com/nirbhayagga">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0A0A0C?style=for-the-badge&logo=github&logoColor=E3B341" alt="GitHub" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 I am a Software Engineer focused on bridging the gap between software development and the underlying systems infrastructure.
 
 - Earned a **Bachelor of Science in Computer Science** from the University of Nevada, Las Vegas (2021–2025). Currently pursuing a **Master of Science in Computer Science** at the same institution.
-- Currently engaged as an **Intern and Support Specialist** at the UNLV Office of Information Technology.
+- Currently engaged as a **Public Service Intern** at the UNLV Office of Information Technology.
 - Specialized in **enterprise-grade deployments and network infrastructure** (Proxmox, TrueNAS, OPNsense, Docker).
 
 ---
