@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E3B341&center=true&vCenter=true&width=600&lines=Nirbhay+Aggarwal;Software+Engineer;Full-Stack+Developer;Infrastructure+Engineer" alt="Nirbhay Aggarwal — Software Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E3B341&center=true&vCenter=true&width=600&lines=Nirbhay+Aggarwal;Software+Engineer;Full-Stack+Developer;Homelab+Builder" alt="Nirbhay Aggarwal — Software Engineer" />
 </h1>
 
 <p align="center">
@@ -44,7 +44,7 @@ Welcome to my personal git instance. I am a Software Engineer focused on bridgin
 
 - Earned a **Bachelor of Science in Computer Science** from the University of Nevada, Las Vegas (2021–2025). Currently pursuing a **Master of Science in Computer Science** at the same institution.
 - Currently engaged as a **Public Service Intern** at the UNLV Office of Information Technology.
-- Specialized in **enterprise-grade deployments and network infrastructure**. I independently manage this Forgejo instance alongside a suite of self-hosted media, photo, and automation services within a Proxmox and TrueNAS environment.
+- I run this **Forgejo instance** alongside self-hosted media, photo, and automation services on Proxmox and TrueNAS — a homelab I take a bit too seriously.
 
 ---
 
@@ -90,7 +90,7 @@ Welcome to my personal git instance. I am a Software Engineer focused on bridgin
 * **Steam NLP Pipeline:** Data scraping and ML preprocessing pipeline analyzing 15M+ rows of Steam reviews.
 * **[Boardroom](https://boardroom.nirbhay.dev) & [Sudoku](https://sudoku.nirbhay.dev):** Live web apps — ten classic board games with per-game AI engines (minimax, a transposition-table checkers engine, Stockfish via WASM) and server-authoritative Socket.IO multiplayer in the self-hosted build (the live demo is the offline, AI-only build), and a Sudoku app with puzzle generation, a custom solver, and a hint engine. **Both playable now.**
 * **Multiplayer Party Game Platform:** Real-time full-stack web app (Vue.js, Node.js, PostgreSQL) hosting Jackbox-style games.
-* **Homelab & Network:** Production-grade infrastructure using Proxmox, OPNsense (VLANs, WireGuard, DNS), TrueNAS, Traefik, and reverse-tunnel public ingress with automated encrypted backups to Backblaze B2.
+* **Homelab & Network:** Proxmox, OPNsense (VLANs, WireGuard, DNS), TrueNAS, Traefik, and reverse-tunnel public ingress with automated encrypted backups to Backblaze B2.
 
 <sub>Projects without links live in private repos on this instance — source available on request.</sub>
 
