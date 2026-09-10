@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E3B341&center=true&vCenter=true&width=600&lines=Nirbhay+Aggarwal;Software+Engineer;Full-Stack+Developer;Infrastructure+Engineer" alt="Nirbhay Aggarwal — Software Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E3B341&center=true&vCenter=true&width=600&lines=Nirbhay+Aggarwal;Software+Engineer;Full-Stack+Developer;Homelab+Builder" alt="Nirbhay Aggarwal — Software Engineer" />
 </h1>
 
 <p align="center">
@@ -44,7 +44,7 @@ I am a Software Engineer focused on bridging the gap between software developmen
 
 - Earned a **Bachelor of Science in Computer Science** from the University of Nevada, Las Vegas (2021–2025). Currently pursuing a **Master of Science in Computer Science** at the same institution.
 - Currently engaged as a **Public Service Intern** at the UNLV Office of Information Technology.
-- Specialized in **enterprise-grade deployments and network infrastructure** (Proxmox, TrueNAS, OPNsense, Docker).
+- Run a **homelab I take a bit too seriously** — Proxmox, TrueNAS, OPNsense, Docker — with VLAN segmentation, WireGuard, and encrypted offsite backups.
 
 ---
 
@@ -57,7 +57,7 @@ I am a Software Engineer focused on bridging the gap between software developmen
 * **Systems Programming:** Developed **Rivet** (Git re-implementation in Rust), **Pyrite** and **Rustle** (Rust interpreters), and **Espresso** (Java compiler with Ant/JFlex).
 * **Autonomous AI & ML:** Engineered a LiDAR-based autonomous racing vehicle with ROS2 (F1tenth, 1st in 4/4 races). Trained RL agents for Mario, TrackMania, and BipedalWalker. Built an NLP pipeline processing 15M+ Steam reviews.
 * **Full-Stack Web:** [Boardroom](https://boardroom.nirbhay.dev) — ten classic board games with per-game AI engines (minimax, a transposition-table checkers engine, Stockfish via WASM) and server-authoritative Socket.IO multiplayer in the self-hosted build; the live demo is the offline, AI-only build — and [Sudoku](https://sudoku.nirbhay.dev), with on-the-fly puzzle generation, a custom solver, and a hint engine. **Both playable now.** Also built a Jackbox-style party game platform (Vue.js, Node.js, PostgreSQL).
-* **Infrastructure:** Architected an enterprise-grade homelab (Proxmox, OPNsense, TrueNAS) with VLAN segmentation, WireGuard VPN, Traefik, reverse-tunnel public ingress, and encrypted offsite backups to Backblaze B2.
+* **Infrastructure:** Built a homelab (Proxmox, OPNsense, TrueNAS) with VLAN segmentation, WireGuard VPN, Traefik, reverse-tunnel public ingress, and encrypted offsite backups to Backblaze B2.
 
 <sub>Projects without links live in private repos on my self-hosted Git instance — source available on request.</sub>
 
