@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=E3B341&center=true&vCenter=true&width=600&lines=Nirbhay+Aggarwal;Software+Engineer;Full-Stack+Developer;Homelab+Builder" alt="Nirbhay Aggarwal — Software Engineer" />
-</h1>
+<h1 align="center">Nirbhay Aggarwal</h1>
+<p align="center"><strong>Software Engineer</strong> · Full-Stack Developer · Homelab Builder</p>
 
 <p align="center">
   <a href="https://nirbhay.dev">
