@@ -91,11 +91,6 @@ I am a Software Engineer focused on bridging the gap between software developmen
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nirbhayagga&show_icons=true&include_all_commits=true&count_private=true&title_color=E3B341&icon_color=E3B341&text_color=A8A29E&bg_color=00000000&hide_border=true" alt="Nirbhay's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=nirbhayagga&background=00000000&ring=E3B341&fire=E3B341&currStreakNum=E3B341&currStreakLabel=E3B341&sideNums=A8A29E&sideLabels=A8A29E&dates=57534E&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirbhayagga&layout=compact&title_color=E3B341&text_color=A8A29E&bg_color=00000000&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
