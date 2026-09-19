@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <strong>Playable right now:</strong><br/>
+  <strong>Live projects:</strong><br/>
   <a href="https://wikigolf.app">
     <img src="https://img.shields.io/badge/Play-WikiGolf-E3B341?style=for-the-badge" alt="Play WikiGolf" />
   </a>
@@ -39,26 +39,22 @@
 
 ### About Me
 
-I am a Software Engineer focused on bridging the gap between software development and the underlying systems infrastructure.
+I'm a software engineer pursuing an **MS in Computer Science at UNLV**, after finishing my BS in 2025. I build software to explore what I'm learning and to solve problems for people I know.
 
-- Earned a **Bachelor of Science in Computer Science** from the University of Nevada, Las Vegas (2021–2025). Currently pursuing a **Master of Science in Computer Science** at the same institution.
-- Currently engaged as a **Public Service Intern** at the UNLV Office of Information Technology.
-- Run a **homelab I take a bit too seriously** — Proxmox, TrueNAS, OPNsense, Docker — with VLAN segmentation, WireGuard, and encrypted offsite backups.
+I work as a **Public Service Intern at UNLV OIT** and run a Proxmox and TrueNAS homelab. Open to full-time software, systems, and infrastructure roles starting in **2027**.
 
 ---
 
 ### Highlighted Projects
 
-* **[WikiGolf](https://wikigolf.app) — Wikipedia Graph Pipeline:** Parsed the full 27 GB English Wikipedia dump with a custom two-pass Rust parser into a 7.2M-article, 231M-edge graph (PageRank, Leiden communities, force-directed layout), then built a Rust game server racing across it — 22 ms shortest paths, daily puzzles. **Playable now.**
-* **[PalDash](https://github.com/paldash/paldash) — Game Server Dashboard & Save Editor:** Self-hosted dashboard combining a game server's REST API with direct parsing of Oodle-compressed binary saves — fail-closed editing with verified backups, conservation checks, seven-role access control, and 1,000+ tests.
-* **[ClientCrypt](https://clientcrypt.nirbhay.dev) — Cryptography in the Browser:** Interactive reference for cryptographic primitives and protocols on audited RustCrypto crates compiled to WebAssembly — AES modes, HMAC, RSA, X25519, Argon2id, a full TLS 1.3 key schedule — every primitive verified against FIPS and RFC known-answer vectors. No input leaves the browser.
-* **[Stepwise](https://stepwise.nirbhay.dev) — Algorithm Visualizer:** Records each run as immutable frames so 40+ sorting, pathfinding, DP, tree, and graph algorithms can be played, stepped backwards, and scrubbed on a timeline with pseudocode tracing and live variables. Vue 3 + TypeScript.
-* **Systems Programming:** Developed **Rivet** (Git re-implementation in Rust), **Pyrite** and **Rustle** (Rust interpreters), and **Espresso** (Java compiler with Ant/JFlex).
-* **Autonomous AI & ML:** Engineered a LiDAR-based autonomous racing vehicle with ROS2 (F1tenth, 1st in 4/4 races). Trained RL agents for Mario, TrackMania, and BipedalWalker. Built an NLP pipeline processing 15M+ Steam reviews.
-* **Full-Stack Web:** [Boardroom](https://boardroom.nirbhay.dev) — twelve classic board games with per-game AI engines (minimax, a transposition-table checkers engine, Stockfish via WASM) and server-authoritative Socket.IO multiplayer in the self-hosted build; the live demo is the offline, AI-only build — and [Sudoku](https://sudoku.nirbhay.dev), with on-the-fly puzzle generation, a custom solver, and a hint engine. **Both playable now.**
-* **Infrastructure:** Built a homelab (Proxmox, OPNsense, TrueNAS) with VLAN segmentation, WireGuard VPN, Traefik, reverse-tunnel public ingress, and encrypted offsite backups to Backblaze B2.
+- **[WikiGolf](https://wikigolf.app):** A two-pass Rust parser turns the English Wikipedia dump into a 7.2M-article link graph. The public game runs as a static export; a separate Rust server supports live path queries.
+- **[PalDash](https://github.com/paldash/paldash):** Built for the Palworld server I host for friends. Combines monitoring and a world map with binary save editing, server-state checks, verified backups, and rollback checks.
+- **[ClientCrypt](https://clientcrypt.nirbhay.dev):** Started with my cryptography coursework. RustCrypto runs in WebAssembly, inputs stay in the browser, and FIPS/RFC test vectors check the results.
+- **[Stepwise](https://stepwise.nirbhay.dev):** Started with my algorithms coursework. Recorded execution frames let you step backward through algorithms, CPU schedules, and simulated thread interleavings.
 
-<sub>Projects without links live in private repos on my self-hosted Git instance — source available on request.</sub>
+Also built [Sudoku](https://sudoku.nirbhay.dev) so my girlfriend could play without ads, and [Boardroom](https://boardroom.nirbhay.dev) for remote game nights. **Boardroom's hosted demo is AI-only; online multiplayer requires the self-hosted Node server.**
+
+Team and coursework projects include F1tenth autonomous racing (our team placed first in four races; I managed the shared codebase), a Steam-review NLP pipeline, Rust interpreters, Rivet, and the Espresso compiler. Recent graduate labs cover phishing-model distillation, embedding retrieval, and adversarial images. Coursework source stays private; I can discuss the work and my contributions.
 
 ---
 
