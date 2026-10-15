@@ -52,9 +52,15 @@ I work as a **Public Service Intern at UNLV OIT** and run a Proxmox and TrueNAS 
 - **[ClientCrypt](https://clientcrypt.nirbhay.dev):** Started with my cryptography coursework. RustCrypto runs in WebAssembly, inputs stay in the browser, and FIPS/RFC test vectors check the results.
 - **[Stepwise](https://stepwise.nirbhay.dev):** Started with my algorithms coursework. Recorded execution frames let you step backward through algorithms, CPU schedules, and simulated thread interleavings.
 
-Also built [Sudoku](https://sudoku.nirbhay.dev) so my girlfriend could play without ads, and [Boardroom](https://boardroom.nirbhay.dev) for remote game nights. **Boardroom's hosted demo is AI-only; online multiplayer requires the self-hosted Node server.**
+Also built [Sudoku](https://sudoku.nirbhay.dev) for ad-free play with generated puzzles, hints, and a custom solver, and [Boardroom](https://boardroom.nirbhay.dev) for remote game nights. **Boardroom's hosted demo is AI-only; online multiplayer requires the self-hosted Node server.**
 
-Team and coursework projects include F1tenth autonomous racing (our team placed first in four races; I managed the shared codebase), a Steam-review NLP pipeline, Rust interpreters, Rivet, and the Espresso compiler. Recent graduate labs cover phishing-model distillation, embedding retrieval, and adversarial images. Coursework source stays private; I can discuss the work and my contributions.
+Team and coursework projects include F1tenth autonomous racing (our team placed first in four races; I managed the shared codebase), the Espresso compiler, and a Steam-review NLP paper for which I handled all scraping, data collection, preprocessing, and the initial ML run.
+
+I also build **Silt**, a Rust version control system with Git-compatible interchange, and **Interlay**, experimental languages whose interpreters run commit and merge-policy hooks for Silt.
+
+My **[Mario PPO agent](https://github.com/nirbhayagga/mario-ai)** cleared World 1-1 in 10/10 evaluation episodes after 10M training steps; results are limited to that trained level.
+
+Graduate coursework compares vector/graph retrieval, embeddings, and compression using a provided evaluation harness, alongside phishing-model distillation and adversarial-image labs. Coursework source stays private; I can discuss the work and my contributions.
 
 ---
 
@@ -79,14 +85,6 @@ Team and coursework projects include F1tenth autonomous racing (our team placed 
 ![ROS2](https://img.shields.io/badge/ROS2-0A0A0C?style=flat-square&logo=ros&logoColor=E3B341)
 ![Proxmox](https://img.shields.io/badge/Proxmox-0A0A0C?style=flat-square&logo=proxmox&logoColor=E3B341)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0A0A0C?style=flat-square&logo=cloudflare&logoColor=E3B341)
-
----
-
-### GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirbhayagga&show_icons=true&include_all_commits=true&count_private=true&title_color=E3B341&icon_color=E3B341&text_color=A8A29E&bg_color=00000000&hide_border=true" alt="Nirbhay's GitHub Stats" />
-</p>
 
 ---
 
