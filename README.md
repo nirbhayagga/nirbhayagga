@@ -1,5 +1,5 @@
 <h1 align="center">Nirbhay Aggarwal</h1>
-<p align="center"><strong>Software Engineer</strong> · Full-Stack Developer · Homelab Builder</p>
+<p align="center"><strong>Software Engineer</strong> · Security &amp; ML Security · Homelab Builder</p>
 
 <p align="center">
   <a href="https://nirbhay.dev">
@@ -33,34 +33,40 @@
   <a href="https://stepwise.nirbhay.dev">
     <img src="https://img.shields.io/badge/Try-Stepwise-E3B341?style=for-the-badge" alt="Try Stepwise" />
   </a>
+  <a href="https://ragshield.dev">
+    <img src="https://img.shields.io/badge/Visit-RAG_Shield-E3B341?style=for-the-badge" alt="Visit RAG Shield" />
+  </a>
+  <a href="https://rallyradio.onrender.com">
+    <img src="https://img.shields.io/badge/Play-Rally_Radio-E3B341?style=for-the-badge" alt="Play Rally Radio" />
+  </a>
 </p>
 
 ---
 
 ### About Me
 
-I'm a software engineer pursuing an **MS in Computer Science at UNLV**, after finishing my BS in 2025. I build software to explore what I'm learning and to solve problems for people I know.
+I'm a software engineer pursuing an **MS in Computer Science at UNLV** (expected May 2027), after finishing my BS in 2025. Lately that work is AI security: provenance for RAG pipelines and LLM-rewritten phishing. I build software to explore what I'm learning and to solve problems for people I know.
 
-I work as a **Public Service Intern at UNLV OIT** and run a Proxmox and TrueNAS homelab. Open to full-time software, systems, and infrastructure roles starting in **2027**.
+I work as a **Public Service Intern at UNLV OIT**, where I lead the annual audit verification of 8,000+ IT assets, and run a Proxmox and TrueNAS homelab. Open to full-time security, AppSec, and ML security roles starting in **2027**, as well as software and infrastructure work.
 
 ---
 
 ### Highlighted Projects
 
+- **[RAG Shield](https://ragshield.dev):** Provenance for RAG pipelines. Signs every chunk at ingestion (SHA-256 plus an Ed25519 ledger), scores only what an edit adds, and drops tampered or unknown chunks before the model sees them. Caught 125 of 125 direct vector-store edits; a classifier fine-tuned on public data raised detection of poisoned edits from 23% to 97.6% at 3.2% false alarms on held-out documents. Coursework startup project; source private for now.
+- **PhishGuard:** Can LLM rewrites get phishing past detectors? A 28,899-email corpus with links scored in a separate channel, TF-IDF and DistilBERT detectors, and LLM-rewrite and adaptive attacks. Rewrites rarely evaded (0.4–3.1% at 1% FPR) and Claude refused most requests, but every trained detector ranked poorly on modern phishing (AUC 0.52–0.71) while zero-shot Claude Opus reached 0.96–0.99. Team course project; source private for now.
 - **[WikiGolf](https://wikigolf.app):** A two-pass Rust parser turns the English Wikipedia dump into a 7.2M-article link graph. The public game runs as a static export; a separate Rust server supports live path queries.
 - **[PalDash](https://github.com/paldash/paldash):** Built for the Palworld server I host for friends. Combines monitoring and a world map with binary save editing, server-state checks, verified backups, and rollback checks.
 - **[ClientCrypt](https://clientcrypt.nirbhay.dev):** Started with my cryptography coursework. RustCrypto runs in WebAssembly, inputs stay in the browser, and FIPS/RFC test vectors check the results.
 - **[Stepwise](https://stepwise.nirbhay.dev):** Started with my algorithms coursework. Recorded execution frames let you step backward through algorithms, CPU schedules, and simulated thread interleavings.
 
-Also built [Sudoku](https://sudoku.nirbhay.dev) for ad-free play with generated puzzles, hints, and a custom solver, and [Boardroom](https://boardroom.nirbhay.dev) for remote game nights. **Boardroom's hosted demo is AI-only; online multiplayer requires the self-hosted Node server.**
+Also built [Sudoku](https://sudoku.nirbhay.dev) for ad-free play with generated puzzles, hints, and a custom solver; [Boardroom](https://boardroom.nirbhay.dev) for remote game nights; [Rally Radio](https://rallyradio.onrender.com), a browser kart racer where a blindfolded driver follows a sighted navigator's calls; and firetv-reclaim, which replaces a Fire TV's ad-filled home screen without root. **Boardroom's hosted demo is AI-only; online multiplayer requires the self-hosted Node server.**
 
-Team and coursework projects include F1tenth autonomous racing (our team placed first in four races; I managed the shared codebase), the Espresso compiler, and a Steam-review NLP paper for which I handled all scraping, data collection, preprocessing, and the initial ML run.
+Team and coursework projects include F1tenth autonomous racing (our team placed first in four races; I managed the shared codebase), the Espresso compiler, and a Steam-review helpfulness paper, submitted to ITNG 2027 (under review), for which I built the scraper, the ETL and the first ML runs, then rebuilt the study as a one-command pipeline that reproduced its main table on a fresh machine.
 
 I also build **Silt**, a Rust version control system with Git-compatible interchange, and **Interlay**, experimental languages whose interpreters run commit and merge-policy hooks for Silt.
 
 My **[Mario PPO agent](https://github.com/nirbhayagga/mario-ai)** cleared World 1-1 in 10/10 evaluation episodes after 10M training steps; results are limited to that trained level.
-
-Graduate coursework compares vector/graph retrieval, embeddings, and compression using a provided evaluation harness, alongside phishing-model distillation and adversarial-image labs. Coursework source stays private; I can discuss the work and my contributions.
 
 ---
 
@@ -81,6 +87,7 @@ Graduate coursework compares vector/graph retrieval, embeddings, and compression
 ![Vue.js](https://img.shields.io/badge/Vue.js-0A0A0C?style=flat-square&logo=vue.js&logoColor=E3B341)
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0C?style=flat-square&logo=node.js&logoColor=E3B341)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0C?style=flat-square&logo=pytorch&logoColor=E3B341)
+![Transformers](https://img.shields.io/badge/Transformers-0A0A0C?style=flat-square&logo=huggingface&logoColor=E3B341)
 ![Docker](https://img.shields.io/badge/Docker-0A0A0C?style=flat-square&logo=docker&logoColor=E3B341)
 ![ROS2](https://img.shields.io/badge/ROS2-0A0A0C?style=flat-square&logo=ros&logoColor=E3B341)
 ![Proxmox](https://img.shields.io/badge/Proxmox-0A0A0C?style=flat-square&logo=proxmox&logoColor=E3B341)
@@ -89,5 +96,5 @@ Graduate coursework compares vector/graph retrieval, embeddings, and compression
 ---
 
 <p align="center">
-  <em>Open to full-time roles in Software Engineering, Autonomous Systems, and Infrastructure beginning 2027.</em>
+  <em>Open to full-time roles in Security Engineering, AppSec, and ML Security beginning in 2027.</em>
 </p>
