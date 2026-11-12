@@ -5,7 +5,7 @@
   <a href="https://nirbhay.dev">
     <img src="https://img.shields.io/badge/Website-nirbhay.dev-E3B341?style=for-the-badge" alt="Website" />
   </a>
-  <a href="https://linkedin.com/in/nirbagga/">
+  <a href="https://linkedin.com/in/nirbhayagga/">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0C?style=for-the-badge&logo=linkedin&logoColor=E3B341" alt="LinkedIn" />
   </a>
   <a href="mailto:hi@nirbhay.dev">
