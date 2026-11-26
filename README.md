@@ -3,41 +3,38 @@
 
 <p align="center">
   <a href="https://nirbhay.dev">
-    <img src="https://img.shields.io/badge/Website-nirbhay.dev-E3B341?style=for-the-badge" alt="Website" />
+    <img src="badges/web.svg" alt="Website: nirbhay.dev" />
   </a>
   <a href="https://linkedin.com/in/nirbhayagga/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0C?style=for-the-badge&logo=linkedin&logoColor=E3B341" alt="LinkedIn" />
+    <picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/linkedin.svg"><img src="badges/light/linkedin.svg" alt="LinkedIn: nirbhayagga" /></picture>
   </a>
   <a href="mailto:hi@nirbhay.dev">
-    <img src="https://img.shields.io/badge/Email-hi%40nirbhay.dev-0A0A0C?style=for-the-badge&logo=maildotru&logoColor=E3B341" alt="Email" />
-  </a>
-  <a href="https://github.com/nirbhayagga">
-    <img src="https://img.shields.io/badge/GitHub-0A0A0C?style=for-the-badge&logo=github&logoColor=E3B341" alt="GitHub" />
+    <picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/mail.svg"><img src="badges/light/mail.svg" alt="Email: hi@nirbhay.dev" /></picture>
   </a>
 </p>
 
 <p align="center">
   <strong>Live projects:</strong><br/>
   <a href="https://wikigolf.app">
-    <img src="https://img.shields.io/badge/Play-WikiGolf-E3B341?style=for-the-badge" alt="Play WikiGolf" />
+    <picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-wikigolf.svg"><img src="badges/light/live-wikigolf.svg" alt="Play WikiGolf" /></picture>
   </a>
   <a href="https://sudoku.nirbhay.dev">
-    <img src="https://img.shields.io/badge/Play-Sudoku-E3B341?style=for-the-badge" alt="Play Sudoku" />
+    <picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-sudoku.svg"><img src="badges/light/live-sudoku.svg" alt="Play Sudoku" /></picture>
   </a>
   <a href="https://boardroom.nirbhay.dev">
-    <img src="https://img.shields.io/badge/Play-Boardroom-E3B341?style=for-the-badge" alt="Play Boardroom" />
+    <picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-boardroom.svg"><img src="badges/light/live-boardroom.svg" alt="Play Boardroom" /></picture>
   </a>
   <a href="https://clientcrypt.nirbhay.dev">
-    <img src="https://img.shields.io/badge/Try-ClientCrypt-E3B341?style=for-the-badge" alt="Try ClientCrypt" />
+    <picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-clientcrypt.svg"><img src="badges/light/live-clientcrypt.svg" alt="Try ClientCrypt" /></picture>
   </a>
   <a href="https://stepwise.nirbhay.dev">
-    <img src="https://img.shields.io/badge/Try-Stepwise-E3B341?style=for-the-badge" alt="Try Stepwise" />
+    <picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-stepwise.svg"><img src="badges/light/live-stepwise.svg" alt="Try Stepwise" /></picture>
   </a>
   <a href="https://ragshield.dev">
-    <img src="https://img.shields.io/badge/Visit-RAG_Shield-E3B341?style=for-the-badge" alt="Visit RAG Shield" />
+    <picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-rag-shield.svg"><img src="badges/light/live-rag-shield.svg" alt="Visit RAG Shield" /></picture>
   </a>
   <a href="https://rallyradio.onrender.com">
-    <img src="https://img.shields.io/badge/Play-Rally_Radio-E3B341?style=for-the-badge" alt="Play Rally Radio" />
+    <picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-rally-radio.svg"><img src="badges/light/live-rally-radio.svg" alt="Play Rally Radio" /></picture>
   </a>
 </p>
 
@@ -73,25 +70,25 @@ My **[Mario PPO agent](https://github.com/nirbhayagga/mario-ai)** cleared World 
 ### Tech Stack
 
 **Languages:**<br/>
-![Python](https://img.shields.io/badge/Python-0A0A0C?style=flat-square&logo=python&logoColor=E3B341)
-![Java](https://img.shields.io/badge/Java-0A0A0C?style=flat-square&logo=openjdk&logoColor=E3B341)
-![C++](https://img.shields.io/badge/C%2B%2B-0A0A0C?style=flat-square&logo=c%2B%2B&logoColor=E3B341)
-![Rust](https://img.shields.io/badge/Rust-0A0A0C?style=flat-square&logo=rust&logoColor=E3B341)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0C?style=flat-square&logo=javascript&logoColor=E3B341)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0C?style=flat-square&logo=typescript&logoColor=E3B341)
-![SQL](https://img.shields.io/badge/SQL-0A0A0C?style=flat-square&logo=postgresql&logoColor=E3B341)
+<picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/stack-python.svg"><img src="badges/light/stack-python.svg" alt="Python" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/stack-java.svg"><img src="badges/light/stack-java.svg" alt="Java" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/stack-cpp.svg"><img src="badges/light/stack-cpp.svg" alt="C++" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/stack-rust.svg"><img src="badges/light/stack-rust.svg" alt="Rust" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/stack-javascript.svg"><img src="badges/light/stack-javascript.svg" alt="JavaScript" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/stack-typescript.svg"><img src="badges/light/stack-typescript.svg" alt="TypeScript" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/stack-sql.svg"><img src="badges/light/stack-sql.svg" alt="SQL" /></picture>
 
 **Frameworks & Infrastructure:**<br/>
-![React](https://img.shields.io/badge/React-0A0A0C?style=flat-square&logo=react&logoColor=E3B341)
-![Astro](https://img.shields.io/badge/Astro-0A0A0C?style=flat-square&logo=astro&logoColor=E3B341)
-![Vue.js](https://img.shields.io/badge/Vue.js-0A0A0C?style=flat-square&logo=vue.js&logoColor=E3B341)
-![Node.js](https://img.shields.io/badge/Node.js-0A0A0C?style=flat-square&logo=node.js&logoColor=E3B341)
-![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0C?style=flat-square&logo=pytorch&logoColor=E3B341)
-![Transformers](https://img.shields.io/badge/Transformers-0A0A0C?style=flat-square&logo=huggingface&logoColor=E3B341)
-![Docker](https://img.shields.io/badge/Docker-0A0A0C?style=flat-square&logo=docker&logoColor=E3B341)
-![ROS2](https://img.shields.io/badge/ROS2-0A0A0C?style=flat-square&logo=ros&logoColor=E3B341)
-![Proxmox](https://img.shields.io/badge/Proxmox-0A0A0C?style=flat-square&logo=proxmox&logoColor=E3B341)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0A0A0C?style=flat-square&logo=cloudflare&logoColor=E3B341)
+<picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/stack-react.svg"><img src="badges/light/stack-react.svg" alt="React" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/stack-astro.svg"><img src="badges/light/stack-astro.svg" alt="Astro" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/stack-vuejs.svg"><img src="badges/light/stack-vuejs.svg" alt="Vue.js" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/stack-nodejs.svg"><img src="badges/light/stack-nodejs.svg" alt="Node.js" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/stack-pytorch.svg"><img src="badges/light/stack-pytorch.svg" alt="PyTorch" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/stack-transformers.svg"><img src="badges/light/stack-transformers.svg" alt="Transformers" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/stack-docker.svg"><img src="badges/light/stack-docker.svg" alt="Docker" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/stack-ros2.svg"><img src="badges/light/stack-ros2.svg" alt="ROS2" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/stack-proxmox.svg"><img src="badges/light/stack-proxmox.svg" alt="Proxmox" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/stack-cloudflare.svg"><img src="badges/light/stack-cloudflare.svg" alt="Cloudflare" /></picture>
 
 ---
 
