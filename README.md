@@ -2,40 +2,20 @@
 <p align="center"><strong>Software Engineer</strong> · Security &amp; ML Security · Homelab Builder</p>
 
 <p align="center">
-  <a href="https://nirbhay.dev">
-    <img src="badges/web.svg" alt="Website: nirbhay.dev" />
-  </a>
-  <a href="https://linkedin.com/in/nirbhayagga/">
-    <picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/linkedin.svg"><img src="badges/light/linkedin.svg" alt="LinkedIn: nirbhayagga" /></picture>
-  </a>
-  <a href="mailto:hi@nirbhay.dev">
-    <picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/mail.svg"><img src="badges/light/mail.svg" alt="Email: hi@nirbhay.dev" /></picture>
-  </a>
+  <a href="https://nirbhay.dev"><img src="badges/web.svg" alt="Website: nirbhay.dev" /></a>
+  <a href="https://linkedin.com/in/nirbhayagga/"><picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/linkedin.svg"><img src="badges/light/linkedin.svg" alt="LinkedIn: nirbhayagga" /></picture></a>
+  <a href="mailto:hi@nirbhay.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/mail.svg"><img src="badges/light/mail.svg" alt="Email: hi@nirbhay.dev" /></picture></a>
 </p>
 
 <p align="center">
   <strong>Live projects:</strong><br/>
-  <a href="https://wikigolf.app">
-    <picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-wikigolf.svg"><img src="badges/light/live-wikigolf.svg" alt="Play WikiGolf" /></picture>
-  </a>
-  <a href="https://sudoku.nirbhay.dev">
-    <picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-sudoku.svg"><img src="badges/light/live-sudoku.svg" alt="Play Sudoku" /></picture>
-  </a>
-  <a href="https://boardroom.nirbhay.dev">
-    <picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-boardroom.svg"><img src="badges/light/live-boardroom.svg" alt="Play Boardroom" /></picture>
-  </a>
-  <a href="https://clientcrypt.nirbhay.dev">
-    <picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-clientcrypt.svg"><img src="badges/light/live-clientcrypt.svg" alt="Try ClientCrypt" /></picture>
-  </a>
-  <a href="https://stepwise.nirbhay.dev">
-    <picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-stepwise.svg"><img src="badges/light/live-stepwise.svg" alt="Try Stepwise" /></picture>
-  </a>
-  <a href="https://ragshield.dev">
-    <picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-rag-shield.svg"><img src="badges/light/live-rag-shield.svg" alt="Visit RAG Shield" /></picture>
-  </a>
-  <a href="https://rallyradio.onrender.com">
-    <picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-rally-radio.svg"><img src="badges/light/live-rally-radio.svg" alt="Play Rally Radio" /></picture>
-  </a>
+  <a href="https://wikigolf.app"><picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-wikigolf.svg"><img src="badges/light/live-wikigolf.svg" alt="Play WikiGolf" /></picture></a>
+  <a href="https://sudoku.nirbhay.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-sudoku.svg"><img src="badges/light/live-sudoku.svg" alt="Play Sudoku" /></picture></a>
+  <a href="https://boardroom.nirbhay.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-boardroom.svg"><img src="badges/light/live-boardroom.svg" alt="Play Boardroom" /></picture></a>
+  <a href="https://clientcrypt.nirbhay.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-clientcrypt.svg"><img src="badges/light/live-clientcrypt.svg" alt="Try ClientCrypt" /></picture></a>
+  <a href="https://stepwise.nirbhay.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-stepwise.svg"><img src="badges/light/live-stepwise.svg" alt="Try Stepwise" /></picture></a>
+  <a href="https://ragshield.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-rag-shield.svg"><img src="badges/light/live-rag-shield.svg" alt="Visit RAG Shield" /></picture></a>
+  <a href="https://rallyradio.onrender.com"><picture><source media="(prefers-color-scheme: dark)" srcset="badges/dark/live-rally-radio.svg"><img src="badges/light/live-rally-radio.svg" alt="Play Rally Radio" /></picture></a>
 </p>
 
 ---
