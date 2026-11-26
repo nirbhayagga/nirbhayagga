@@ -45,7 +45,7 @@
 
 ### About Me
 
-I'm a software engineer pursuing an **MS in Computer Science at UNLV** (expected May 2027), after finishing my BS in 2025. Lately that work is AI security: provenance for RAG pipelines and LLM-rewritten phishing. I build software to explore what I'm learning and to solve problems for people I know.
+I'm a software engineer pursuing an **MS in Computer Science at UNLV** (expected May 2027), after finishing my BS in 2025. Lately that work is AI security: change control for the documents RAG pipelines read, and LLM-rewritten phishing. I build software to explore what I'm learning and to solve problems for people I know.
 
 I work as a **Public Service Intern at UNLV OIT**, where I lead the annual audit verification of 8,000+ IT assets, and run a Proxmox and TrueNAS homelab. Open to full-time security, AppSec, and ML security roles starting in **2027**, as well as software and infrastructure work.
 
@@ -53,7 +53,7 @@ I work as a **Public Service Intern at UNLV OIT**, where I lead the annual audit
 
 ### Highlighted Projects
 
-- **[RAG Shield](https://ragshield.dev):** Provenance for RAG pipelines. Signs every chunk at ingestion (SHA-256 plus an Ed25519 ledger), scores only what an edit adds, holds flagged edits for review while the previous version keeps serving, and drops tampered or unknown chunks before the model sees them. Caught 125 of 125 direct vector-store edits; a classifier fine-tuned on public data raised detection of prompt-injection edits from 23% to 96.0% on held-out documents with a calibrated threshold, flagging 0 of 62 benign edits. Coursework startup project, released as open source: [source](https://github.com/nirbhayagga/rag-shield), [`pip install rag-shield`](https://pypi.org/project/rag-shield/), and the classifier on [Hugging Face](https://huggingface.co/nirbhayagga/ragshield-injection-v5).
+- **[RAG Shield](https://ragshield.dev):** Change control for the documents a RAG pipeline reads. Scores only what each edit adds, holds risky edits for review while the previous version keeps serving, and signs every chunk (SHA-256 plus an Ed25519 ledger) so tampered or unknown chunks are dropped before the model sees them. Caught 125 of 125 direct vector-store edits; a classifier fine-tuned on public data raised detection of prompt-injection edits from 23% to 96.0% on held-out documents with a calibrated threshold, flagging 0 of 62 benign edits. Coursework startup project, released as open source: [source](https://github.com/nirbhayagga/rag-shield), [`pip install rag-shield`](https://pypi.org/project/rag-shield/), and the classifier on [Hugging Face](https://huggingface.co/nirbhayagga/ragshield-injection-v5).
 - **PhishGuard:** Can LLM rewrites get phishing past detectors? A 28,899-email corpus with links scored in a separate channel, TF-IDF and DistilBERT detectors, and LLM-rewrite and adaptive attacks. Rewrites rarely evaded (0.4–3.1% at 1% FPR) and Claude refused most requests, but every trained detector ranked poorly on modern email (AUC 0.52–0.71) while zero-shot Claude Opus reached 0.96–0.99. Course project; source private for now.
 - **[WikiGolf](https://wikigolf.app):** A two-pass Rust parser turns the English Wikipedia dump into a 7.2M-article link graph. The public game runs as a static export; a separate Rust server supports live path queries.
 - **[PalDash](https://github.com/paldash/paldash):** Built for the Palworld server I host for friends. Combines monitoring and a world map with binary save editing, server-state checks, verified backups, and rollback checks.
